@@ -14,3 +14,5 @@
 6.增加浏览器通知
 
 7.特殊网页增加pageAction
+
+## **http://blog.haoji.me/chrome-plugin-develop.html**
